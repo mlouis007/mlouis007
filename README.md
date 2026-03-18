@@ -48,7 +48,7 @@ Passionate about systems, networking, and cybersecurity, I focus on stabilizing 
 
 ### 🖥️ **Systems & Infrastructure**  
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white)  
+![Linux](https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux&logoColor=white)  
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Administration-blue?style=flat)  
 ![Intune](https://img.shields.io/badge/Intune-Device%20Management-purple?style=flat)  
 
@@ -148,7 +148,7 @@ Passionate about systems, networking, and cybersecurity, I focus on stabilizing 
 ---
 
 📫 **Get in Touch**  
-- LinkedIn: [Michecarde Louis](https://www.linkedin.com/in/michecarde-l-3ab4b0205)  
+- LinkedIn: [Michecarde LinkedIn](https://www.linkedin.com/in/michecarde-l-3ab4b0205)  
 - Email: michecarde10@gmail.com
 
 ---
