@@ -152,7 +152,7 @@ Passionate about systems, networking, and cybersecurity, I focus on stabilizing 
 ---
 
 📫 **Get in Touch**  
-- LinkedIn: [Michecarde LinkedIn](https://www.linkedin.com/in/michecarde-l-3ab4b0205)  
+- [LinkedIn:](https://www.linkedin.com/in/michecarde-l-3ab4b0205)  
 - Email: michecarde10@gmail.com
 
 ---
