@@ -105,7 +105,7 @@ I work on optimizing infrastructure, integrating systems (databases & APIs), and
 ---
 
 ## 📊 Professional Stats  
-- 🖥️ Supported and stabilized infrastructure for 600+ Honeywell devices (XML configurations)  
+- 🖥️ Supported and stabilized 600+ Honeywell devices (XML configurations) in a production environment for a logistics and shipping company
 - 🔧 Resolved complex system and network incidents  
 - 🔐 Performed incident handling and system hardening  
 
