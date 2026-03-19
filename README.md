@@ -60,7 +60,7 @@ I work on optimizing infrastructure, integrating systems (databases & APIs), and
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Zabbix Version](https://img.shields.io/badge/Zabbix-6.0_LTS-red)
+![Zabbix](https://img.shields.io/badge/Zabbix-E60000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
