@@ -61,9 +61,10 @@ I work on stabilizing environments, resolving incidents, and improving system re
 
 ---
 
-### 🔗 Integration  
+### 🔗 Integration & Data Formats
 ![REST API](https://img.shields.io/badge/API-REST-6DB33F?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -74,7 +75,10 @@ I work on stabilizing environments, resolving incidents, and improving system re
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -128,7 +132,7 @@ I work on stabilizing environments, resolving incidents, and improving system re
 ---
 
 📫 **Get in Touch**  
-- [LinkedIn:](https://www.linkedin.com/in/michecarde-l-3ab4b0205)  
+- [LinkedIn: Michecarde Louis](https://www.linkedin.com/in/michecarde-l-3ab4b0205)  
 - Email: michecarde10@gmail.com
 
 ---
