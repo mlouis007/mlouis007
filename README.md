@@ -1,50 +1,45 @@
 # 👨‍💻 Hi there, I'm MLOUIS007 👋  
 
-**IT Systems & Network Specialist | Cybersecurity Student**  
+**IT Systems & Network Specialist | Cybersecurity Student**
 
-I'm an IT Systems & Network Specialist specializing in infrastructure, troubleshooting, and operational security.  
-Passionate about systems, networking, and cybersecurity, I focus on stabilizing environments, solving complex incidents, and continuously improving technical processes.  
+IT Systems & Network Specialist focused on infrastructure, troubleshooting, and operational security.  
+I work on stabilizing environments, resolving incidents, and improving system reliability.
 
 🎯 Currently pursuing a B.Sc in Cybersecurity
 
 ---
 
-🧩 **Work & Academic Focus**  
-- Infrastructure & system administration  
+## 🧩 Work & Academic Focus  
+- System administration & infrastructure  
 - Network operations & security  
 - Database design & SQL  
-- Production environment integration (DB + APIs)  
+- Environment integration (databases & APIs)  
 - Cybersecurity fundamentals  
 
 ---
 
-🔭 **I'm currently working on...**  
-- Infrastructure & System Optimization – Improving reliability, documentation, and internal processes  
-- Production Environment Integration – Working with databases, APIs, and system configurations  
-- Cybersecurity Practices – Incident handling, threat awareness, and system hardening  
+## 🔭 Current Work  
+- Infrastructure optimization (reliability, documentation, processes)  
+- Environment integration (databases, APIs, configurations)  
+- Cybersecurity practices (incident handling, system hardening)  
 
 ---
 
-🌱 **I'm currently learning...**  
+## 🌱 Currently Learning  
 - Cybersecurity (B.Sc in progress)  
-- Advanced System Administration  
-- Network Security & Infrastructure Design  
-- SQL & System Integration  
+- Advanced system administration  
+- Network security & infrastructure design  
+- SQL & system integration  
 
 ---
 
-🧠 **Skills**
-
-### 🔎 **Core Skills**  
-- Troubleshooting and problem solving  
+## 🧠 Core Skills  
+- Troubleshooting & problem solving  
 - Network configuration (TCP/IP, VPN, routing)  
 - System administration (Windows, Active Directory)  
-- SQL and database management  
+- SQL & database management  
 - Technical documentation  
 
----
-
-💻 **Technologies & Tools**
 
 ### 🖥️ Systems & Infrastructure  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -86,6 +81,7 @@ Passionate about systems, networking, and cybersecurity, I focus on stabilizing 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -124,10 +120,10 @@ Passionate about systems, networking, and cybersecurity, I focus on stabilizing 
 
 ---
 
-📊 **Professional Stats**  
-- 🖥️ Supported and stabilized infrastructure of 600+ devices  
+## 📊 Professional Stats  
+- 🖥️ Supported and stabilized infrastructure for 600+ Honeywell devices (XML configurations)  
 - 🔧 Resolved complex system and network incidents  
-- 🔐 Cybersecurity incident handling and system hardening  
+- 🔐 Performed incident handling and system hardening  
 
 ---
 
