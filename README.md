@@ -5,16 +5,14 @@
 IT Systems & Network Specialist focused on infrastructure, troubleshooting, and operational security.  
 I work on stabilizing environments, resolving incidents, and improving system reliability.
 
-🎯 Currently pursuing a B.Sc in Cybersecurity
-
 ---
 
-## 🧩 Work & Academic Focus  
+## 🚀 Focus & Learning  
+- Cybersecurity (B.Sc in progress)  
 - System administration & infrastructure  
 - Network operations & security  
 - Database design & SQL  
 - Environment integration (databases & APIs)  
-- Cybersecurity fundamentals  
 
 ---
 
@@ -23,13 +21,6 @@ I work on stabilizing environments, resolving incidents, and improving system re
 - Environment integration (databases, APIs, configurations)  
 - Cybersecurity practices (incident handling, system hardening)  
 
----
-
-## 🌱 Currently Learning  
-- Cybersecurity (B.Sc in progress)  
-- Advanced system administration  
-- Network security & infrastructure design  
-- SQL & system integration  
 
 ---
 
@@ -44,9 +35,11 @@ I work on stabilizing environments, resolving incidents, and improving system re
 ### 🖥️ Systems & Infrastructure  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Microsoft%20PowerShell-5391FE?style=for-the-badge&logo=microsoftpowershell&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 ---
 
