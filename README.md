@@ -65,7 +65,12 @@ Approach centered on clarity, stability, and long-term maintainability.
 
 </td>
 
+
 <td width="42%" valign="top">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mlouis007&label=Profile%20Views&color=2E8B57&style=for-the-badge" />
+</p>
 
 ### 📊 Analytics
 
