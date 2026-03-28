@@ -15,8 +15,36 @@ I work on optimizing infrastructure, integrating systems (databases & APIs), and
 - Network configuration (TCP/IP, VPN, routing)  
 - System administration (Windows, Active Directory)  
 - SQL & database management  
-- Technical documentation  
+- Technical documentation
 
+
+## 🧩 Founding Principles of my Work
+
+- ![Structure-first](https://img.shields.io/badge/Structure--first-Stability%20before%20scale-2E8B57?style=flat-square)
+  Build clean, stable systems before optimizing or scaling.
+
+- ![Root-cause](https://img.shields.io/badge/Root--cause-Fix%20at%20the%20source-1E90FF?style=flat-square)
+  No temporary fixes. Problems are solved at the source.
+
+- ![Execution-first](https://img.shields.io/badge/Execution--first-Deliver%20results-FF8C00?style=flat-square)
+  Working solutions over ideas. Deliver, then improve.
+
+- ![System-integrity](https://img.shields.io/badge/System--integrity-No%20shortcuts-B22222?style=flat-square)
+  Respect architecture, constraints, and dependencies.
+
+- ![Consistency](https://img.shields.io/badge/Consistency-Discipline%20daily-6A5ACD?style=flat-square)
+  Same discipline, same quality, every time.
+
+- ![Operational clarity](https://img.shields.io/badge/Operational--clarity-Traceable%20systems-4682B4?style=flat-square)
+  Keep systems understandable, traceable, and maintainable.
+
+- ![Security](https://img.shields.io/badge/Security-Continuous%20process-8B0000?style=flat-square)
+  Continuous hardening, monitoring, and incident readiness.
+
+- ![Collaborative approach](https://img.shields.io/badge/Collaborative%20approach-Build%20%26%20share-4CAF50?style=flat-square)
+  I value collaboration through building and knowledge sharing. I enjoy working with people who appreciate structure, clarity, and steady progress.
+  
+---
 
 ### 🖥️ Systems & Infrastructure  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
