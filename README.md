@@ -17,33 +17,61 @@ Experienced in optimizing environments, integrating systems (databases & APIs), 
 - SQL & database management  
 - Technical documentation
 
+---
 
-## 🧩 Founding Principles of my Work
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- ![Structure-first](https://img.shields.io/badge/Structure--first-Stability%20before%20scale-2E8B57?style=flat-square)
+### 🧩 Founding Principles
+
+- ![Structure-first](https://img.shields.io/badge/Structure--first-Stability%20before%20scale-2E8B57?style=flat-square)  
   Build clean, stable systems before optimizing or scaling.
 
-- ![Root-cause](https://img.shields.io/badge/Root--cause-Fix%20at%20the%20source-1E90FF?style=flat-square)
-  No temporary fixes. Problems are solved at the source.
+- ![Root-cause](https://img.shields.io/badge/Root--cause-Fix%20at%20the%20source-1E90FF?style=flat-square)  
+  Solve problems at the source. No temporary fixes.
 
-- ![Execution-first](https://img.shields.io/badge/Execution--first-Deliver%20results-FF8C00?style=flat-square)
-  Working solutions over ideas. Deliver, then improve.
+- ![Execution-first](https://img.shields.io/badge/Execution--first-Deliver%20results-FF8C00?style=flat-square)  
+  Deliver working solutions, then improve.
 
-- ![System-integrity](https://img.shields.io/badge/System--integrity-No%20shortcuts-B22222?style=flat-square)
+- ![System-integrity](https://img.shields.io/badge/System--integrity-No%20shortcuts-B22222?style=flat-square)  
   Respect architecture, constraints, and dependencies.
 
-- ![Consistency](https://img.shields.io/badge/Consistency-Discipline%20daily-6A5ACD?style=flat-square)
-  Same discipline, same quality, every time.
+- ![Consistency](https://img.shields.io/badge/Consistency-Discipline%20daily-6A5ACD?style=flat-square)  
+  Maintain the same level of quality and discipline.
 
-- ![Operational clarity](https://img.shields.io/badge/Operational--clarity-Traceable%20systems-4682B4?style=flat-square)
-  Keep systems understandable, traceable, and maintainable.
+- ![Clarity](https://img.shields.io/badge/Operational--clarity-Traceable%20systems-4682B4?style=flat-square)  
+  Keep systems clear, traceable, and maintainable.
 
-- ![Security](https://img.shields.io/badge/Security-Continuous%20process-8B0000?style=flat-square)
-  Continuous hardening, monitoring, and incident readiness.
+- ![Security](https://img.shields.io/badge/Security-Continuous%20process-8B0000?style=flat-square)  
+  Continuous hardening, monitoring, and readiness.
 
-- ![Collaborative approach](https://img.shields.io/badge/Collaborative%20approach-Build%20%26%20share-4CAF50?style=flat-square)
-  I value collaboration through building and knowledge sharing. I enjoy working with people who appreciate structure, clarity, and steady progress.
-  
+- ![Collaboration](https://img.shields.io/badge/Collaboration-Build%20%26%20share-4CAF50?style=flat-square)  
+  Build, share, and improve through practical collaboration.
+
+</td>
+
+<td width="42%" valign="top">
+
+### 📊 Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlouis007&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mlouis007&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="140em" src="https://streak-stats.demolab.com?user=mlouis007&theme=tokyonight&hide_border=true" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
 ---
 
 ### 🖥️ Systems & Infrastructure  
@@ -138,13 +166,6 @@ Experienced in optimizing environments, integrating systems (databases & APIs), 
 - 🖥️ Supported and stabilized 600+ Honeywell devices (XML configurations) in a production environment for a logistics and shipping company
 - 🔧 Resolved complex system and network incidents  
 - 🔐 Performed incident handling and system hardening  
-
----
-
-📊 **GitHub Activity**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlouis007&show_icons=true&theme=radical" />
-</p>
 
 ---
 
