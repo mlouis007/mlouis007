@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/michecarde-l-3ab4b0205">
+    <img src="https://img.shields.io/badge/LinkedIn-Michecarde%20Louis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <h1 align="center">🛡️ MLOUIS007</h1>
 
 <p align="center"><strong>IT Systems & Network Specialist | Cybersecurity Student</strong></p>
@@ -172,12 +180,6 @@ Approach centered on clarity, stability, and long-term maintainability.
 - 🖥️ Supported and stabilized 600+ Honeywell devices (XML configurations) in a production environment for a logistics and shipping company
 - 🔧 Resolved complex system and network incidents  
 - 🔐 Performed incident handling and system hardening  
-
----
-
-📫 **Get in Touch**  
-- [LinkedIn: Michecarde Louis](https://www.linkedin.com/in/michecarde-l-3ab4b0205)  
-- Email: michecarde10@gmail.com
 
 ---
 
