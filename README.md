@@ -1,12 +1,12 @@
 
-# 👨‍💻 Hi there, I'm MLOUIS007 👋  
+<h1 align="center">🛡️ MLOUIS007</h1>
 
-**IT Systems & Network Specialist | Cybersecurity Student**
+<p align="center"><strong>IT Systems & Network Specialist | Cybersecurity Student</strong></p>
 
-IT Systems & Network Specialist focused on infrastructure, troubleshooting, and operational security.  
-I work on optimizing infrastructure, integrating systems (databases & APIs), and strengthening security through incident handling and system hardening.
+IT Systems & Network Specialist specializing in infrastructure, system reliability, and operational security.  
+Experienced in optimizing environments, integrating systems (databases & APIs), and strengthening security through incident response and system hardening.
 
-🎯 Currently pursuing a B.Sc in Cybersecurity, with a focus on system administration, network operations, and database design.
+🎯 Currently pursuing a B.Sc in Cybersecurity, with a focus on system administration, network operations, and secure system design.
 
 ---
 
