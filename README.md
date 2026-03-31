@@ -17,10 +17,6 @@ Experienced in optimizing environments, integrating databases & APIs, and streng
 
 🎯 Currently pursuing a B.Sc in Cybersecurity, focused on system administration, network operations, and secure system design.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Structured%20Learning-Disciplined%20%26%20Intentional-4338CA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collaboration%20Ready-Reliable%20%26%20Effective-065F46?style=for-the-badge" />
-</p>
 ---
 
 **Building secure, reliable, and structured environments.**
@@ -36,6 +32,11 @@ Approach centered on clarity, stability, and long-term maintainability.
 - Technical documentation
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Structured%20Learning-Disciplined%20%26%20Intentional-4338CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaboration%20Ready-Reliable%20%26%20Effective-065F46?style=for-the-badge" />
+</p>
 
 <table>
 <tr>
