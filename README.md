@@ -33,14 +33,14 @@ Approach centered on clarity, stability, and long-term maintainability.
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 <p align="center">
   <img src="https://img.shields.io/badge/Structured%20Learning-Disciplined%20%26%20Intentional-4338CA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Collaboration%20Ready-Reliable%20%26%20Effective-065F46?style=for-the-badge" />
 </p>
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 ### 🧩 Founding Principles
 
@@ -69,7 +69,6 @@ Approach centered on clarity, stability, and long-term maintainability.
   Build, share, and improve through practical collaboration.
 
 </td>
-
 
 <td width="42%" valign="top">
 
