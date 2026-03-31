@@ -15,13 +15,17 @@
 ---
 
 <p align="center">
-  Systems and network-focused builder operating at the intersection of <strong>infrastructure</strong> and <strong>security</strong>.<br>
-  Approach centered on <strong>clarity</strong>, <strong>stability</strong>, and long-term maintainability.
+  Systems and network-focused professional operating at the intersection of <strong>infrastructure</strong> and <strong>security</strong>.<br>
+  Approach grounded in <strong>clarity</strong>, <strong>stability</strong>, and long-term maintainability.
 </p>
 
 <p align="center">
   🎓 College diploma in <strong>Security and Virtualization</strong>.<br>
   🎯 Currently pursuing a <strong>B.Sc. in Cybersecurity</strong>.
+</p>
+
+<p align="center">
+  Specialized in <strong>infrastructure, system reliability, and operational security</strong>, with hands-on experience optimizing environments, integrating databases and APIs, and strengthening systems through incident response and hardening.
 </p>
 
 ---
