@@ -34,7 +34,8 @@
 - Troubleshooting & problem solving  
 - Network configuration (TCP/IP, VPN, routing)  
 - System administration (Windows, Active Directory)  
-- SQL & database management  
+- SQL & database management
+- DevOps : collaboration + CI/CD + IaC
 - Technical documentation
 
 ---
